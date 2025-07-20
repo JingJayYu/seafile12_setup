@@ -1,10 +1,11 @@
-# Seafile v12 Setup Tutorial
+# Seafile v12 Setup Tutorial (建置方法)
 
 ## 中文版本
 For the Chinese version of this README, click the button below:
 [中文版本 README](./README.zh.md)
 
 This guide will walk you through setting up **Seafile v12** using Docker. It is recommended to use **Portainer** for managing your containers.
+
 本指南將引導您使用 Docker 設置 Seafile v12。建議使用 Portainer 來管理容器。
 
 ## Prerequisites
