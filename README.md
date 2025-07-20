@@ -80,3 +80,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 **Seafile v12** is a powerful file syncing and sharing solution. With this guide, you can quickly set up and configure your own instance. Enjoy!
+
+## 中文版本
+For the Chinese version of this README, click the button below:
+
+[中文版本 README](./README.zh.md)
