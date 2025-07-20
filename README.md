@@ -1,4 +1,4 @@
-# Seafile v12 Setup Tutorial (建置方法)
+# Seafile v12 Setup Tutorial (安裝教學)
 
 ## 中文版本
 For the Chinese version of this README, click the button below:
