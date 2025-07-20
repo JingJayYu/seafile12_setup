@@ -4,7 +4,7 @@
 
 ## 前置條件
 - 已在伺服器上安裝 Docker
-- Portainer（可選，但推薦使用）
+- Portainer（選用，推薦使用）
 - 基本的終端指令操作知識
 
 ## Seafile v12 安裝步驟
