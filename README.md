@@ -1,6 +1,11 @@
 # Seafile v12 Setup Tutorial
 
+## 中文版本
+For the Chinese version of this README, click the button below:
+[中文版本 README](./README.zh.md)
+
 This guide will walk you through setting up **Seafile v12** using Docker. It is recommended to use **Portainer** for managing your containers.
+本指南將引導您使用 Docker 設置 Seafile v12。建議使用 Portainer 來管理容器。
 
 ## Prerequisites
 - Docker installed on your server
@@ -80,8 +85,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 **Seafile v12** is a powerful file syncing and sharing solution. With this guide, you can quickly set up and configure your own instance. Enjoy!
-
-## 中文版本
-For the Chinese version of this README, click the button below:
-
-[中文版本 README](./README.zh.md)
